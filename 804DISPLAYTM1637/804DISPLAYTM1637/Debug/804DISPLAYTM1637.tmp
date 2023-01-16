@@ -1,0 +1,75 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny804"</DEVICE>
+ <WORKING_DIR>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn804def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\Debug\804DISPLAYTM1637.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>804DISPLAYTM1637.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>804DISPLAYTM1637.map</FILE>
+  <FILE>804DISPLAYTM1637.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <minussign><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>48</LINE></minussign>
+  <firstdigit><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>49</LINE></firstdigit>
+  <seconddigit><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>50</LINE></seconddigit>
+  <thirddigit><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>51</LINE></thirddigit>
+  <firstposition><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>52</LINE></firstposition>
+  <secposition><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>53</LINE></secposition>
+  <PROT_WRITE><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>384</LINE></PROT_WRITE>
+  <mainloop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>150</LINE></mainloop>
+  <command1><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>183</LINE></command1>
+  <spitx><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>287</LINE></spitx>
+  <printchar><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>422</LINE></printchar>
+  <command3><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>188</LINE></command3>
+  <stop><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>203</LINE></stop>
+  <start><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>194</LINE></start>
+  <delay10uS><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>369</LINE></delay10uS>
+  <SPI><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>252</LINE></SPI>
+  <tx><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>254</LINE></tx>
+  <hi><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>271</LINE></hi>
+  <delayYx1mS><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>301</LINE></delayYx1mS>
+  <delay1mS><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>331</LINE></delay1mS>
+  <delayTx1mS><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>316</LINE></delayTx1mS>
+  <delay1mS_01><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>337</LINE></delay1mS_01>
+  <delayTx1uS><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>354</LINE></delayTx1uS>
+  <font0><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>393</LINE></font0>
+  <font1><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>394</LINE></font1>
+  <font2><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>395</LINE></font2>
+  <font3><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>396</LINE></font3>
+  <font4><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>397</LINE></font4>
+  <font5><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>398</LINE></font5>
+  <font6><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>399</LINE></font6>
+  <font7><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>400</LINE></font7>
+  <font8><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>401</LINE></font8>
+  <font9><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>402</LINE></font9>
+  <fonta><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>403</LINE></fonta>
+  <fontb><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>404</LINE></fontb>
+  <fontc><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>405</LINE></fontc>
+  <fontd><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>406</LINE></fontd>
+  <fonte><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>407</LINE></fonte>
+  <fontf><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>408</LINE></fontf>
+  <fontminus><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>409</LINE></fontminus>
+  <fontspace><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>410</LINE></fontspace>
+  <pointer><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>413</LINE></pointer>
+  <minus><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>430</LINE></minus>
+  <letterC><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>435</LINE></letterC>
+  <space><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>439</LINE></space>
+  <printnum><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>443</LINE></printnum>
+  <load0><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>456</LINE></load0>
+  <multiply><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>450</LINE></multiply>
+  <adddecimal><FILE>C:\Users\Manama\Documents\Atmel Studio\7.0\804DISPLAYTM1637\804DISPLAYTM1637\main.asm</FILE><LINE>463</LINE></adddecimal>
+ </LABELS>
+</ASSEMBLER_INFO>
